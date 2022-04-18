@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Simple calculator application without using any math libraries to handle all the operations.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
